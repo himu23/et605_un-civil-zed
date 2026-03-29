@@ -1,0 +1,65 @@
+{
+  "student_id": "STU_9942",
+  "session_id": "a4d8-21f9-847c-b193",
+  "chapter_id": "grade7_rational_numbers",
+  "session_start_time": "2026-03-29T16:05:00Z",
+  "session_end_time": "2026-03-29T16:21:40Z",
+  "session_status": "completed",
+  "metrics": {
+    "correct_answers": 12,
+    "wrong_answers": 2,
+    "questions_attempted": 14,
+    "total_questions": 14,
+    "retry_count": 3,
+    "hints_used": 5,
+    "total_hints_embedded": 42,
+    "time_spent_active_seconds": 1000,
+    "topic_completion_ratio": 1.0
+  },
+  "subtopic_metrics": [
+    {
+      "subtopic_id": "T_ADD_DIFF",
+      "correct_answers": 4,
+      "wrong_answers": 1,
+      "questions_attempted": 5,
+      "total_questions": 4,
+      "retry_count": 1,
+      "hints_used": 2,
+      "time_spent_active_seconds": 320,
+      "topic_completion_ratio": 1.0
+    },
+    {
+      "subtopic_id": "T_SUBTRACTION",
+      "correct_answers": 3,
+      "wrong_answers": 0,
+      "questions_attempted": 3,
+      "total_questions": 3,
+      "retry_count": 0,
+      "hints_used": 0,
+      "time_spent_active_seconds": 210,
+      "topic_completion_ratio": 1.0
+    },
+    {
+      "subtopic_id": "T_MULTIPLICATION",
+      "correct_answers": 2,
+      "wrong_answers": 1,
+      "questions_attempted": 3,
+      "total_questions": 4,
+      "retry_count": 2,
+      "hints_used": null,
+      "time_spent_active_seconds": 150,
+      "topic_completion_ratio": 0.5
+    },
+    {
+      "subtopic_id": "T_DIVISION",
+      "correct_answers": 3,
+      "wrong_answers": 0,
+      "questions_attempted": 3,
+      "total_questions": 3,
+      "retry_count": 0,
+      "hints_used": 3,
+      "time_spent_active_seconds": 320,
+      "topic_completion_ratio": 1.0
+    }
+  ]
+}

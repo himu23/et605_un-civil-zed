@@ -1,0 +1,32 @@
+{
+  "chapter_name": "Rational Numbers",
+  "chapter_id": "grade7_rational_numbers",
+  "chapter_url": "https://et605-rational-numbers.netlify.app",
+  "expected_completion_time": 1200,
+  "number_of_subtopics": 4,
+  "prerequisite_chapter_ids": [],
+  "subtopic_details": [
+    {
+      "subtopic_id": "T_ADD_DIFF",
+      "subtopic_name": "Addition (Different Denoms)",
+      "subtopic_difficulty": 0.4
+    },
+    {
+      "subtopic_id": "T_SUBTRACTION",
+      "subtopic_name": "Subtraction",
+      "subtopic_difficulty": 0.5
+    },
+    {
+      "subtopic_id": "T_MULTIPLICATION",
+      "subtopic_name": "Multiplication",
+      "subtopic_difficulty": 0.3
+    },
+    {
+      "subtopic_id": "T_DIVISION",
+      "subtopic_name": "Division",
+      "subtopic_difficulty": 0.4
+    }
+  ],
+  "curriculum_alignment": "NCERT Grade 7",
+  "core_competency": "Arithmetic Operations on Rational Numbers"
+}
