@@ -20,7 +20,11 @@ export const LearnerProvider = ({ children, studentId }) => {
     currentTopicIndex: 0
   });
 
-  const [sessionId] = useState(() => crypto.randomUUID());
+  const [sessionId] = useState(() => {
+    return (window.crypto && window.crypto.randomUUID) 
+      ? window.crypto.randomUUID() 
+      : 'sess_' + Math.random().toString(36).substring(2, 11);
+  });
   const [sessionStartTime] = useState(() => new Date().toISOString());
   const [hintsTracker, setHintsTracker] = useState({});
 
